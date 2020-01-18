@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="question_label_text">What is the meaning of life?</string>
+    <string name="answer_text_field_text">Enter text here</string>
+    <string name="student_button_text">Student Answer</string>
+    <string name="student_answer">_____</string>
 </resources>
